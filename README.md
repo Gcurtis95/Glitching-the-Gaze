@@ -10,7 +10,9 @@ sdxl with standard parameters
 Results:
 
 
-sd1.5 standrad parameters
+**sd1.5 standrad parameters**
+
+Results:
 
 ![SD 1 5 LoRA Training Smoothed Loss Over Steps](https://github.com/user-attachments/assets/c9966933-fe42-4e83-98df-001377fee8d7)
 
@@ -32,12 +34,24 @@ Plateau toward the end: The loss begins to flatten, meaning the model is converg
 | Training Stability | ✅ High            | Smooth line, no chaotic jumps         |
 
 
+What this tells us
+
+SD1.5 LoRA successfully learned the stylistic or compositional features from your data.
+
+If you want slightly sharper aesthetic detail, you could:
+
+Extend training by 500–1000 more steps.
+
+Or increase network_dim from 128 → 192.
+
+If you're not seeing visual glitches or anomalies and want them, you'd need to destabilize the setup (as we discussed earlier).
+
+
+
+
+**sd1.5 uncropped portrait images**
 
 Results:
-
-
-
-sd1.5 uncropped portrait images
 
 ![SD 1 5 LoRA (Uncropped Portraits)](https://github.com/user-attachments/assets/d797216f-4bcc-4ac4-bfb6-ff8f46725e14)
 
