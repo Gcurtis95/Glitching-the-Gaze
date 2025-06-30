@@ -14,6 +14,20 @@ sd1.5 standrad parameters
 
 ![SD 1 5 LoRA Training Smoothed Loss Over Steps](https://github.com/user-attachments/assets/c9966933-fe42-4e83-98df-001377fee8d7)
 
+Initial Loss (~0.07–0.08): A healthy starting point for SD1.5 LoRA training.
+
+Steady downward trend: The curve declines smoothly, indicating consistent learning.
+
+No major spikes or oscillations: This suggests the model did not diverge or destabilize during training.
+
+Plateau toward the end: The loss begins to flatten, meaning the model is converging well and further training would yield diminishing returns.
+
+
+
+Convergence	 Yes	Clear flattening of the curve
+Underfitting  No	Loss drops, so it's learning features
+Overfitting	 No visible sign	No late spikes or sudden drops
+Training Stability	 High	Smooth line, no chaotic jumps
 
 
 Results:
