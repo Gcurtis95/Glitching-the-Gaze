@@ -10,7 +10,7 @@ sdxl with standard parameters
 Results:
 
 
-# sd1.5 standrad parameters
+# sd1.5 standard parameters
 
 Results:
 
@@ -49,7 +49,7 @@ If you're not seeing visual glitches or anomalies and want them, you'd need to d
 
 
 
-**sd1.5 uncropped portrait images**
+# sd1.5 uncropped portrait images 
 
 Results:
 
