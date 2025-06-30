@@ -109,7 +109,7 @@ trained without cropping images to see if this would induce any glitches in the 
 
 
 
-**techniques to induce glitches**
+# techniques to induce glitches 
 
 
 | Parameter                                     | What It Does                               | How It Creates Glitch Effects                                             |
