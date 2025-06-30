@@ -12,6 +12,10 @@ Results:
 
 sd1.5 standrad parameters
 
+![SD 1 5 LoRA Training Smoothed Loss Over Steps](https://github.com/user-attachments/assets/c9966933-fe42-4e83-98df-001377fee8d7)
+
+
+
 Results:
 
 
