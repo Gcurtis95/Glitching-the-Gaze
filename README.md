@@ -10,7 +10,7 @@ sdxl with standard parameters
 Results:
 
 
-#sd1.5 standrad parameters
+# sd1.5 standrad parameters
 
 Results:
 
