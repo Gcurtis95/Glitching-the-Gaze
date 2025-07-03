@@ -34,7 +34,13 @@ This model was trained for 8000 Steps.
 
 # Generation
 
-Example Prompts: 
+**Settings:**
+
+Sampler: DPM++ 2M or Euler 
+Sampling Steps: 20
+CFG Scale: 7
+
+**Example Prompts:**
 
 
 For the prompting, I used some of the captions provided with the images eg:
@@ -56,7 +62,15 @@ Negative Prompt:
 
 # Notes
 
-In these cases the negative prompt helped keep the model from generating images with extra limbs and wrong anatomy.
+In these cases the negative prompt helped keep the model from generating images with extra limbs and wrong anatomy. And overall, produced the style of the training data pretty well. 
+
+To induce glitches during generation with this Lora don't use a negative prompt and mess around with the generation configs like reducing or adding sampling steps and increase/decrease cfg scale.
+
+
+
+
+
+
 
 
 
