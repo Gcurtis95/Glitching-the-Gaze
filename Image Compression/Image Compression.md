@@ -28,6 +28,10 @@ high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max
   <img src="images/compressed16.png" alt="Image 2" width="300"/>
 </p>
 
+# Generation
+
+
+
 
 
 
