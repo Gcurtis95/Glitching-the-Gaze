@@ -68,6 +68,18 @@ To induce glitches during generation with this Lora don't use a negative prompt 
 
 
 
+# Technical 
+
+
+![output](https://github.com/user-attachments/assets/7475db5e-3499-4cd4-b07a-b545175b2dc7)
+
+
+The training loss generally decreases, which is expected during training.
+
+Some regions show very small changes in the smoothed loss, indicating plateaus — where the model might not be learning much.
+
+
+
 
 
 
