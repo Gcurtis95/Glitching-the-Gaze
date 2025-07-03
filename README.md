@@ -5,7 +5,9 @@
 **1. <a href="Standard Lora/Standard Lora.md"> Standard Lora <a/>**
 
 
-# techniques to induce glitches 
+**Techniques to induce glitches in the Lora**
+
+2. 
 
 
 
