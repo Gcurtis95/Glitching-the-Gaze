@@ -7,7 +7,7 @@
 
 **Techniques to induce glitches in the Lora**
 
-2. Compression
+**2. <a href="Image Compression/Image Compression.md"> Image Compression Lora <a/>**  
 
 3. Overtraining
 
