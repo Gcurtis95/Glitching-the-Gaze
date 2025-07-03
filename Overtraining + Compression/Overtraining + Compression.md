@@ -15,6 +15,10 @@ induce artifacts.
   <img src="images/Compressed9.png" alt="Image 3" width="400"/>
 </p>
 
+# Generation 
+
+
+
 
 
 
