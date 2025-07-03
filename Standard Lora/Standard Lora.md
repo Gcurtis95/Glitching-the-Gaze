@@ -32,7 +32,34 @@ This model was trained for 8000 Steps.
 </p>
 
 
-# Notes 
+# Generation
+
+Example Prompts: 
+
+
+For the prompting, I used some of the captions provided with the images eg:
+
+"A young, white woman with heavily teased platinum-blonde hair kneels on an office chair, her body angled provocatively towards the camera. She wears a beige t-shirt and extremely a short metallic bronze skirt, with thigh-high brown boots style sandals. The background is a dark, nondescript studio space, spotlighted from above, casting hard shadows. Her exaggerated hairstyle dominates the frame, styled in a way reminiscent of 1980s glamour tropes. Her makeup is heavy, particularly around the eyes and mouth. The t-shirt’s plainness contrasts with the shorts’ high shine, making her body the focal point through both exposure and contrast. The lighting and styling play with high sexualisation, inviting visual consumption of the model’s youthful body. The pose and styling hark back to earlier pin-up visual languages while repackaging them for fashion editorial. This image draws on retro-sexual archetypes, placing hyper-femininity in an ironic, object-centric frame.  The straight hair, youthful and toned skin, perfect lean body align with Eurocentric ideals. "
+
+
+I also used chat gbt to generate a prompt from some of the images provided eg:
+
+Prompt:
+
+"A tall, elegant fashion model stands confidently on a platform over a reflective lake, surrounded by striking beige rock formations under a clear blue sky. She wears a sculptural, strapless black mini dress with dramatic ruched fabric and a bold, plunging neckline that accentuates her silhouette. Her long legs are emphasized by sheer black tights and high heels. The lighting is sharp and natural, casting crisp shadows and reflecting the mountainous landscape in the still water. Her hair is slicked back and wet, enhancing the modern, sleek aesthetic. Editorial fashion photography, minimalist composition, natural textures, high contrast, confident and empowering mood. "
+
+
+Negative Prompt: 
+
+"blurry, unnatural lighting, low resolution, extra limbs, distorted anatomy, unrealistic fabric, poor reflections, cartoonish textures, unflattering pose, bad proportions, washed out colors"
+
+
+# Notes
+
+In these cases the negative prompt helped keep the model from generating images with extra limbs and wrong anatomy.
+
+
+
 
 
 
