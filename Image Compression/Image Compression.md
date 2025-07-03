@@ -30,6 +30,34 @@ high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max
 
 # Generation
 
+**Settings:**
+
+Sampler: DPM++ 2M or Euler Sampling Steps: 20 CFG Scale: 7
+
+**Example Prompts:**
+
+Again, for the prompting, I used some of the captions provided with the images with no negative prompting to try and make it as glitchy as possible. 
+
+It seems the longer the prompt, the unstable the generation becomes. 
+
+I tried generating with multiple different aspect ratios to bring out the compression artifacts. 
+
+E.G 
+
+1088x896, 5:4, an AR somewhat popular in photography
+
+1152x896 and 1152x832 straddle 4:3
+
+1216x832 is closest to 3:2, the classic 35mm photography aspect ratio
+
+1344x768 is approximately 16:9
+
+1472x704 is close to the 13:6 popular in current smartphones
+
+1536x640 has the currently popular ~2.4:1 cinematic AR
+
+1856x512 is close to "Ultra-Widescreen 3.6", double the width of 16:9
+
 
 
 
