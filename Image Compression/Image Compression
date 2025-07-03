@@ -6,6 +6,20 @@ so the trainer had to compress them down to 512 x 512. I then did the same thing
 high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max training resolution of 1024 x 1024.
 
 
+<p align="center">
+  <img src="images/Compressed1.png" alt="Image 1" width="200"/>
+  <img src="images/Compressed2.png" alt="Image 2" width="200"/>
+  <img src="images/Compressed3.png" alt="Image 3" width="200"/>
+  <img src="images/Compressed5.png" alt="Image 3" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/Compressed1.png" alt="Image 1" width="200"/>
+  <img src="images/Compressed2.png" alt="Image 2" width="200"/>
+  <img src="images/Compressed3.png" alt="Image 3" width="200"/>
+  <img src="images/Compressed5.png" alt="Image 3" width="200"/>
+</p>
+
 
 
 
