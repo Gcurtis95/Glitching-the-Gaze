@@ -7,6 +7,8 @@
 
 Standard Lora
 
+<a href="standard Lora/ .md">
+
 
 # techniques to induce glitches 
 
