@@ -1,5 +1,6 @@
 # Glitching-the-Gaze
 
+~ Stable Diffusion XL (HD)
 
 **1. <a href="Standard Lora/Standard Lora.md"> Standard Lora <a/>**
 
