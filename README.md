@@ -7,7 +7,13 @@
 
 **Techniques to induce glitches in the Lora**
 
-2. 
+2. Compression
+
+3. Overtraining
+
+## Stable Diffusion 1.5
+
+
 
 
 
