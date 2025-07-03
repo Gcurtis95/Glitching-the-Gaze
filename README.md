@@ -9,7 +9,7 @@
 
 **2. <a href="Image Compression/Image Compression.md"> Image Compression Lora <a/>**  
 
-**3. <a href="Overtraining + Compression/Overtraining + Compression.md"> Overtraining + Compression Lora <a/>   **             
+**3. <a href="Overtraining + Compression/Overtraining + Compression.md"> Overtraining + Compression Lora <a/>**             
 
 ## Stable Diffusion 1.5   
 
