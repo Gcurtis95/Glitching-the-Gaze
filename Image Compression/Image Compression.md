@@ -5,6 +5,8 @@ resolutions using cropped and uncropped datasets, as well as bucketing and non-b
 so the trainer had to compress them down to 512 x 512. I then did the same thing on an uncropped dataset where all the images were compressed down to 512 x 512 by the trainer from resolutions as 
 high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max training resolution of 1024 x 1024.
 
+# Results
+
 
 <p align="center">
   <img src="images/Compressed1.png" alt="Image 1" width="200"/>
@@ -15,6 +17,13 @@ high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max
 
 <p align="center">
   <img src="images/Compressed10.png" alt="Image 1" width="200"/>
+  <img src="images/Compressed11.png" alt="Image 2" width="200"/>
+  <img src="images/Compressed12.png" alt="Image 3" width="200"/>
+  <img src="images/Compressed13.png" alt="Image 3" width="200"/>
+</p>
+
+<p align="center">
+  <img src="images/Compressed14.png" alt="Image 1" width="200"/>
   <img src="images/Compressed11.png" alt="Image 2" width="200"/>
   <img src="images/Compressed12.png" alt="Image 3" width="200"/>
   <img src="images/Compressed13.png" alt="Image 3" width="200"/>
