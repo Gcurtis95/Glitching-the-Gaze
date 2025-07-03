@@ -25,7 +25,7 @@ high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max
 <p align="center">
   <img src="images/Compressed14.png" alt="Image 1" width="200"/>
   <img src="images/Compressed15.png" alt="Image 2" width="300"/>
-  <img src="images/cmpressed16.png" alt="Image 2" width="300"/>
+  <img src="images/compressed16.png" alt="Image 2" width="300"/>
 </p>
 
 
