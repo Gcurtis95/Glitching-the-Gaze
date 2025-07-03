@@ -17,6 +17,35 @@ induce artifacts.
 
 # Generation 
 
+# Generation
+
+**Settings:**
+
+Sampler: DPM++ 2M or Euler Sampling Steps: 20 CFG Scale: 7
+
+**Example Prompts:**
+
+Again, for the prompting, I used some of the captions provided with the images with no negative prompting to try and make it as glitchy as possible. 
+
+It seems the longer the prompt, the unstable the generation becomes. 
+
+I tried generating with multiple different aspect ratios to bring out the compression artifacts. 
+
+E.G 
+
+1088x896, 
+
+1152x896 
+
+1216x832 
+
+1344x768 
+
+1472x704 
+
+1536x640 
+
+1856x512 
 
 
 
