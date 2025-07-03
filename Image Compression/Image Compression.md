@@ -44,19 +44,19 @@ I tried generating with multiple different aspect ratios to bring out the compre
 
 E.G 
 
-1088x896, 5:4, an AR somewhat popular in photography
+1088x896, 
 
-1152x896 and 1152x832 straddle 4:3
+1152x896 
 
-1216x832 is closest to 3:2, the classic 35mm photography aspect ratio
+1216x832 
 
-1344x768 is approximately 16:9
+1344x768 
 
-1472x704 is close to the 13:6 popular in current smartphones
+1472x704 
 
-1536x640 has the currently popular ~2.4:1 cinematic AR
+1536x640 
 
-1856x512 is close to "Ultra-Widescreen 3.6", double the width of 16:9
+1856x512 
 
 
 
