@@ -14,10 +14,10 @@ high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max
 </p>
 
 <p align="center">
-  <img src="images/Compressed1.png" alt="Image 1" width="200"/>
-  <img src="images/Compressed2.png" alt="Image 2" width="200"/>
-  <img src="images/Compressed3.png" alt="Image 3" width="200"/>
-  <img src="images/Compressed5.png" alt="Image 3" width="200"/>
+  <img src="images/Compressed10.png" alt="Image 1" width="200"/>
+  <img src="images/Compressed11.png" alt="Image 2" width="200"/>
+  <img src="images/Compressed12.png" alt="Image 3" width="200"/>
+  <img src="images/Compressed13.png" alt="Image 3" width="200"/>
 </p>
 
 
