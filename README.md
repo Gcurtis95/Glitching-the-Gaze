@@ -1,13 +1,7 @@
 # Glitching-the-Gaze
 
 
-
-**Development Log**
-
-
-Standard Lora
-
-<a href="Standard Lora/Standard Lora.md"> Standard Lora <a/>
+**1. <a href="Standard Lora/Standard Lora.md"> Standard Lora <a/>**
 
 
 # techniques to induce glitches 
