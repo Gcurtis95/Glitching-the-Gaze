@@ -22,8 +22,17 @@ This model was trained for 8000 Steps.
   <img src="Images/00070-3028708566.png" alt="Image 1" width="200"/>
   <img src="Images/00075-2631125681.png" alt="Image 2" width="200"/>
   <img src="Images/00094-2311889615.png" alt="Image 3" width="200"/>
-  <img src="Images/00051-1642012496.png" alt="Image 3" width="200"/>
+  <img src="Images/standard3.png" alt="Image 3" width="200"/>
 </p>
+
+
+<p align="center">
+  <img src="Images/standard1.png" alt="Image 1" width="400"/>
+  <img src="Images/standard 2.png" alt="Image 2" width="400"/>
+</p>
+
+
+# Notes 
 
 
 
