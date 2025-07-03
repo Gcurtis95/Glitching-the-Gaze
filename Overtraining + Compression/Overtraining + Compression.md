@@ -12,7 +12,7 @@ induce artifacts.
   <img src="images/Compressed6.png" alt="Image 2" width="200"/>
   <img src="images/Compressed7.png" alt="Image 3" width="200"/>
   <img src="images/Compressed8.png" alt="Image 3" width="200"/>
-  <img src="images/Compressed9.png" alt="Image 3" width="200"/>
+  <img src="images/Compressed9.png" alt="Image 3" width="600"/>
 </p>
 
 
