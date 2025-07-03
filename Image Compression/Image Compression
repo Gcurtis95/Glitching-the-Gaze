@@ -1,1 +1,11 @@
+# Image Compression Stable Diffusion XL Lora
+
+To purposefully try and induce glitches into the model, one effective technique has been image compression going into the trainer. I did a few different variations on this with different 
+resolutions using cropped and uncropped datasets, as well as bucketing and non-bucketing. Initially, I set the max training resolution to be 512 x 512 and used cropped 800 x 1000 images, 
+so the trainer had to compress them down to 512 x 512. I then did the same thing on an uncropped dataset where all the images were compressed down to 512 x 512 by the trainer from resolutions as 
+high as 4961 x 3508. I also did the same for the uncropped dataset, but to a max training resolution of 1024 x 1024.
+
+
+
+
 
