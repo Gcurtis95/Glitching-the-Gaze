@@ -13,7 +13,7 @@
 
 ## Stable Diffusion 1.5   
 
-**4. <a href="sd1.5 Standard/sd1.5 Standard.md"> SD1.5 Cropped  <a/>**
+**4. <a href="SD1.5 Standard loRA/sd1.5 Standard.md"> SD1.5 Cropped  <a/>**
 
 **5. <a href="SD1.5 Compressed_Uncropped/SD1.5 Compressed_Uncropped.md"> SD1.5 Compressed_Uncropped  <a/>**
 
