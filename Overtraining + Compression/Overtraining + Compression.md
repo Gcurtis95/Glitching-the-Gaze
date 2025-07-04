@@ -13,6 +13,9 @@ induce artifacts.
   <img src="images/Compressed7.png" alt="Image 3" width="200"/>
   <img src="images/Compressed8.png" alt="Image 3" width="200"/>
   <img src="images/Compressed9.png" alt="Image 3" width="400"/>
+  <img src="images/compressed10.png" alt="Image 3" width="400"/>
+  <img src="images/compressed11.png" alt="Image 3" width="400"/>
+  <img src="images/compressed12.png" alt="Image 3" width="400"/>
 </p>
 
 
