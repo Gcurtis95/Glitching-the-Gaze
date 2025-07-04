@@ -2,7 +2,7 @@
 
 ## Stable Diffusion XL (HD)
 
-**1. <a href="Standard Lora/Standard Lora.md"> Standard LoRA <a/>**
+**1. <a href="SDXL Standard loRA/Standard Lora.md"> Standard LoRA <a/>**
 
 
 **Techniques to induce glitches in the LoRAs**
