@@ -24,5 +24,5 @@ I experimented with inducing glitches into the generation by using low sampling 
 <img src="images/all3_18.png" alt="Image 18" width="200"/>
 <img src="images/all3_19.png" alt="Image 19" width="200"/>
 <img src="images/all3_20.png" alt="Image 20" width="200"/>
-<img src="images/all3_20.png" alt="Image 21" width="200"/>
+<img src="images/all3_21.png" alt="Image 21" width="200"/>
 </p>
