@@ -18,7 +18,7 @@ I also experimented with different cfg amounts from 3 - 10 and sampling steps fr
 <img src="images/uncrop7.png" alt="Image 7" width="400"/>
 <img src="images/uncrop5.png" alt="Image 5" width="400"/>
 <img src="images/uncrop10.png" alt="Image 10" width="400">
-<img src="images/uncrop2.png" alt="Image 2" width="300"/>
-<img src="images/uncrop3.png" alt="Image 3" width="300"/>
+<img src="images/uncrop2.png" alt="Image 2" width="400"/>
+<img src="images/uncrop3.png" alt="Image 3" width="400"/>
 />
 </p>
