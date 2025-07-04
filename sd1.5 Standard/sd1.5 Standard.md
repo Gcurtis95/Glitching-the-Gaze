@@ -77,6 +77,14 @@ Below are the results of some experiments with changing the cfg and sampling ste
 </p>
 
 
+# Notes
+
+
+Further experimentation could be done with changing the resolution and sampling method
+
+
+
+
 
 
 
