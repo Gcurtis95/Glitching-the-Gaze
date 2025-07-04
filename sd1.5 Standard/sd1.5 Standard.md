@@ -51,7 +51,30 @@ and negative prompt:
 
 
 
+# CFG Results
 
+Below are the results of some experiments with changing the cfg and sampling steps during generation. With a range of 1 to 20 but mostly in the range of 1 - 5 for cfg, and sampling step range 5 - 10. 
+
+
+
+<p align="center">
+<img src="images/cfg1.png" alt="Image 1" width="200"/>
+<img src="images/cfg2.png" alt="Image 2" width="200"/>
+<img src="images/cfg3.png" alt="Image 3" width="200"/>
+
+<img src="images/cfg5.png" alt="Image 5" width="200"/>
+<img src="images/cfg6.png" alt="Image 6" width="200"/>
+
+<img src="images/cfg8.png" alt="Image 8" width="200"/>
+<img src="images/cfg9.png" alt="Image 9" width="200"/>
+<img src="images/cfg10.png" alt="Image 10" width="200"/>
+<img src="images/cfg11.png" alt="Image 11" width="200"/>
+<img src="images/cfg12.png" alt="Image 12" width="200"/>
+<img src="images/cfg13.png" alt="Image 13" width="200"/>
+<img src="images/cfg14.png" alt="Image 14" width="200"/>
+<img src="images/cfg15.png" alt="Image 15" width="200"/>
+
+</p>
 
 
 
