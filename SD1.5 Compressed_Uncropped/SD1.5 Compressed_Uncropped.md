@@ -9,3 +9,6 @@ As with SDXL, the Lora was trained on uncropped images with a max training resol
 
 
 
+<p align="center">
+<img src="images/all3_5.png" alt="Image 5" width="200"/>
+</p>
