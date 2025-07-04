@@ -26,3 +26,35 @@ I experimented with inducing glitches into the generation by using low sampling 
 <img src="images/all3_20.png" alt="Image 20" width="200"/>
 <img src="images/all3_21.png" alt="Image 21" width="200"/>
 </p>
+
+
+# Generation 
+
+
+Sampling Method: DPM++ 2M
+CFG Scale 7:
+Width: 832 pixels
+Height: 1216 pixels
+Sampling Steps: 5 - 21
+
+
+all of the above images were created with the same prompt:
+
+"The fashion image features two white slim, female models posed in a controlled, interior studio setting. The background includes a white upholstered sofa and a white shag carpet, contributing to a carefully curated, hyper-clean and stylised domestic space. Both models wear minimal clothing, matching snakeskin or animal print swimsuits with extreme cut-outs that expose the chest, midriff, hips, and upper thighs. Their legs are prominently displayed and elongated by high-heeled shoes in neutral tones.
+
+One model kneels on the carpeted floor with her torso upright, hands positioned around a branded handbag. Her gaze is direct, lips slightly parted, and she wears bright red lipstick, a bold accent that stands out in the otherwise desaturated palette. The other model’s head is cropped out of frame, and the image focuses on her legs and hands, directing the viewer’s attention to her skin, the handbag, and the accessories she wears. Both women wear red polished manicures and large bangles, signalling attention to detail and luxury grooming.  The lighting is bright and evenly distributed, removing shadow and producing a flat, hyper-real surface effect that enhances the clarity of skin texture, garment detail, and the sheen of the handbags and shoes. The lighting is frequently evokes clarity, perfection and accessibility, while flattening depth and softening imperfections.  The use of red is limited to the model’s lipstick and nail varnish, but its role is highly strategic. As a concentrated visual accent, red here connotes attraction, erotic charge and confidence. Its placement on the lips reinforces their sensuality and supports the portrayal of the model as a desirable, high-status object. In visual marketing, red has long been associated with heightened visibility and symbolic value, especially when paired with whiteness, which connotes purity, wealth and cleanliness.  The image promotes aspirational values through a combination of luxury cues: high heels, expensive handbags, full-body grooming, and an indoor space devoid of clutter or practical use. The models’ stylised hair, elongated limbs and body-hugging garments align with Eurocentric beauty standards and a narrow representation of femininity.  Reductive visual elements include the cropping of one model’s head, the intense focus on body parts, and the sexualised posturing that presents the models as visual commodities. The image communicates a sense of personal betterment tied to the acquisition of branded goods and bodily control, reinforcing the capitalist ideal that transformation and desirability are attained through consumption and conformity to tightly regulated aesthetic ideals."
+
+
+and negative prompt:
+
+"disfigured"
+
+
+
+
+
+
+
+
+
+
