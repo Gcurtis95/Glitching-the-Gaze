@@ -20,7 +20,7 @@ induce artifacts.
 
 **Settings:**
 
-Sampler: DPM++ 2M or Euler Sampling Steps: 20 CFG Scale: 7
+Sampler: DPM++ 2M or Euler Sampling Steps: 15- 20 CFG Scale: 2 - 7
 
 **Example Prompts:**
 
