@@ -1,5 +1,10 @@
 # Glitching-the-Gaze
 
+
+This is the GitHub Repository for Glitch the Gaze. I've trained around 20 LoRAs so far for both Stable Diffusion 1.5 and SDXL, changing different parameters for each run. Below are the results of these experiments. 
+
+
+
 ## Stable Diffusion XL (HD)
 
 **1. <a href="SDXL Standard loRA/Standard Lora.md"> Standard LoRA <a/>**
@@ -9,7 +14,8 @@
 
 **2. <a href="Image Compression/Image Compression.md"> Image Compression Lora <a/>**  
 
-**3. <a href="Overtraining + Compression/Overtraining + Compression.md"> Overtraining + Compression LoRA <a/>**             
+**3. <a href="Overtraining + Compression/Overtraining + Compression.md"> Overtraining + Compression LoRA <a/>**     
+
 
 ## Stable Diffusion 1.5   
 
