@@ -26,7 +26,9 @@ I also experimented with different CFG amounts from 3 - 10 and sampling steps fr
 Prompts were taken directly from the captions
 
 CFG Scale: 1 - 10
-Sampling Steps: 5 - 10 
+
+Sampling Steps: 5 - 10
+
 Sampling Method: DPM++ 2M
 
 
