@@ -19,9 +19,9 @@ This is the GitHub Repository for Glitch the Gaze. I've trained around 20 LoRAs 
 
 ## Stable Diffusion 1.5   
 
-**4. <a href="SD1.5 Standard loRA/sd1.5 Standard.md"> SD1.5 Cropped loRA<a/>**
+**4. <a href="SD1.5 Standard loRA/sd1.5 Standard.md"> SD1.5 Cropped LoRA <a/>**
 
-**5. <a href="SD1.5 Compressed_Uncropped/SD1.5 Compressed_Uncropped.md"> SD1.5 Compressed_Uncropped loRA <a/>**
+**5. <a href="SD1.5 Compressed_Uncropped/SD1.5 Compressed_Uncropped.md"> SD1.5 Compressed_Uncropped LoRA <a/>**
 
 
 
