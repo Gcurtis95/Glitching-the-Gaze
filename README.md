@@ -13,6 +13,8 @@
 
 ## Stable Diffusion 1.5   
 
+**4. <a href="sd1.5 Standard/sd1.5 Standard.md"> sd1.5 cropped  <a/>**
+
 
 
 
